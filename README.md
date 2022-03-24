@@ -4,7 +4,7 @@ In this repository you will find a list of validators you can use to test your C
 
 ---
 ### How to use
-Download the test `.zip` file for the correct project. Unzip it **next** to your excercises. This should be your file tree:
+[Download](zip_files) the test `.zip` file for the correct project. Unzip it **next** to your excercises. This should be your file tree:
 ```
 Project CXX
     ex00
@@ -34,7 +34,7 @@ En este repositorio encontrarás una lista de validadores que puedes usar para c
 
 ---
 ### Cómo usar
-Descarga el archivo `.zip` del test para tu proyecto. Descomprímelo **al lado** de las carpetas de tus ejercicios. Tu carpeta de proyecto (repositorio) debería tener este aspecto:
+[Descarga](zip_files) el archivo `.zip` del test para tu proyecto. Descomprímelo **al lado** de las carpetas de tus ejercicios. Tu carpeta de proyecto (repositorio) debería tener este aspecto:
 ```
 Proyecto CXX
     ex00
