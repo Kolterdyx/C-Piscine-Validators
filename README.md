@@ -8,13 +8,13 @@ In this repository you will find a list of validators you can use to test your C
 ```
 Project CXX
     ex00
-	    ft_whatever.c
+        ft_whatever.c
     ex01
-	    ft_whatever.c
+        ft_whatever.c
     ex02
-	    ft_whatever.c
+        ft_whatever.c
     exXX
-	    ft_whatever.c
+        ft_whatever.c
     test
 	main00.c
 	main01.c
@@ -38,13 +38,13 @@ En este repositorio encontrarás una lista de validadores que puedes usar para c
 ```
 Proyecto CXX
     ex00
-	    ft_loquesea.c
+        ft_loquesea.c
     ex01
-	    ft_loquesea.c
+        ft_loquesea.c
     ex02
-	    ft_loquesea.c
+        ft_loquesea.c
     exXX
-	    ft_loquesea.c
+        ft_loquesea.c
     test
 	main00.c
 	main01.c
