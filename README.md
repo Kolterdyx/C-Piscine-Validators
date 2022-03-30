@@ -15,12 +15,12 @@ Project CXX
 	    ft_whatever.c
     exXX
 	    ft_whatever.c
-	test
-		main00.c
-		main01.c
-		main02.c
-		mainXX.c
-		validar.sh
+    test
+	main00.c
+	main01.c
+	main02.c
+	mainXX.c
+	validar.sh
 ```
 Then, with your shell, `cd` into `Project CXX/test` and run `validar.sh`. This will start the validator. 
 ### Note
@@ -45,12 +45,12 @@ Proyecto CXX
 	    ft_loquesea.c<>
     exXX
 	    ft_loquesea.c
-	test
-		main00.c
-		main01.c
-		main02.c
-		mainXX.c
-		validar.sh
+    test
+	main00.c
+	main01.c
+	main02.c
+	mainXX.c
+	validar.sh
 ```
 Con tu terminal (shell), haz `cd` hasta llegar a la carpeta `Proyecto CXX/test` y ejecuta `sh validar.sh`. Esto iniciará el validador.
 
