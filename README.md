@@ -42,7 +42,7 @@ Proyecto CXX
     ex01
 	    ft_loquesea.c
     ex02
-	    ft_loquesea.c<>
+	    ft_loquesea.c
     exXX
 	    ft_loquesea.c
     test
